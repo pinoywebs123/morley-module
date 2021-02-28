@@ -1,0 +1,25 @@
+{
+    "name": "morley/module",
+    "description": "Morley first Module",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Morls",
+            "email": "moravel752@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        },
+        "Modules\\": "Modules/"
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Morley\\": ""
+        }
+    }
+}

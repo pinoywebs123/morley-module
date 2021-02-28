@@ -1,0 +1,13 @@
+{
+    "name": "Morley",
+    "alias": "morley",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Morley\\Providers\\MorleyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
