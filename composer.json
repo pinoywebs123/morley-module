@@ -1,5 +1,5 @@
 {
-    "name": "morley/module",
+    "name": "morley-module",
     "description": "Morley first Module",
     "type": "laravel-module",
     "authors": [
